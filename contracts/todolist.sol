@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity 0.8.0;  // Specifies the version of solidity that our code is written with
+pragma solidity ^0.8.0;  // Specifies the version of solidity that our code is written with
 
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
